@@ -1,4 +1,4 @@
-### Hi there more will be here soon,
+### Hi there, more will be here soon,
 
 
 
