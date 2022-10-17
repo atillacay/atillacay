@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <h3 align="left">I am learning...</h3>
+## <h3 align="left">learning...</h3>
 <p align="left">
-<a href="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg#/media/File:Go_Logo_Blue.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="30" height="30" alt="Go Logo Blue.svg"></a><br></a>
+<a href="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg#/media/File:Go_Logo_Blue.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go Logo Blue.svg" height="30" width="30"></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 
