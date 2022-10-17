@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## <h3 align="left">I am learning...</h3>
 <p align="left">
-<a href="https://go.dev/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg#/media/File:Go_Logo_Blue.svg" alt="golang" width="30" height="30"/></a> 
+<p><a href="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg#/media/File:Go_Logo_Blue.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go Logo Blue.svg"></a><br>By The Go Authors - &lt;a rel="nofollow" class="external free" href="https://blog.golang.org/go-brand"&gt;https://blog.golang.org/go-brand&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=82371649">Link</a></p>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
